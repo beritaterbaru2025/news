@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beritaterbaru2025.github.io/news/sitemap.xml
