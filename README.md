@@ -1,3 +1,3 @@
 # beritaterbaru2025
 
-#news
+# news
